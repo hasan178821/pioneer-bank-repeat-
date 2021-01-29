@@ -1,0 +1,33 @@
+body {
+    padding: 100px;
+}
+
+.login-area {}
+
+.login-form {
+    padding: 60px;
+    box-shadow: 5px 5px 15px gray;
+}
+
+#transaction-area {
+    display: none;
+}
+
+.status {
+    margin: 0 20px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #111;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: #ffa07a;
+}
+
+.balance {
+    background-color: orange;
+}
